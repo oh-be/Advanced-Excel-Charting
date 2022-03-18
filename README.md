@@ -13,7 +13,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 * I created a new column called `Percent Funded` that uses a formula to uncover how much money a campaign made to reach its initial goal.
 
-* Using conditional formatting, I filled each cell in the `Percent Funded` column using a three-color scale. The scale starts at 0 and has a dark shade of red, transitioning to green at 100, and then blue at 200.
+* Using conditional formatting, I filled each cell in the `Percent Funded` column using a three-color scale. The scale is ranged from 0 to 200 and the color spectrum is in gradients of green/blue (see legend).
 
 * I created a new column called `Average Donation` that uses a formula to uncover how much each backer for the project paid on average.
 
